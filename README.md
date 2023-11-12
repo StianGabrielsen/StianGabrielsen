@@ -19,6 +19,7 @@ I'm Stian Gabrielsen, a passionate developer exploring the fascinating world of 
       <img src="https://www.vectorlogo.zone/logos/w3_css/w3_css-icon.svg" alt="css"      width="65" height="65"/> 
       <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="GIT"      width="65" height="65"/> 
       <img src="https://www.vectorlogo.zone/logos/php/php-icon.svg" alt="PHP"      width="65" height="65"/> 
+      <img src="Bash_Logo_Colored.svg.png" alt="PHP"      width="65" height="65"/> 
 </div>
 
 
