@@ -1,4 +1,4 @@
-### Hi there 👋
+# Hi there 👋
 
 I'm Stian Gabrielsen, a passionate developer exploring the fascinating world of web development and server management!
 
@@ -10,6 +10,17 @@ I'm Stian Gabrielsen, a passionate developer exploring the fascinating world of 
 - 📫 **How to reach me:** The best way to reach me is "stianbga@stud.ntnu.no" I’m always open to interesting conversations and new opportunities.
 - 😄 **Pronouns:** He/Him.
 - 🏦 **Education:** NTNU Webdesign
+
+##  🧑‍💻 Tech I work on: </h2>
+
+<div align="center">
+      <img src="https://www.vectorlogo.zone/logos/raspberrypi/raspberrypi-icon.svg" alt="Rasberrypi"      width="65" height="65"/> 
+      <img src="https://www.vectorlogo.zone/logos/w3_html5/w3_html5-icon.svg" alt="HTML"      width="65" height="65"/> 
+      <img src="https://www.vectorlogo.zone/logos/w3_css/w3_css-icon.svg" alt="css"      width="65" height="65"/> 
+      <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="GIT"      width="65" height="65"/> 
+      <img src="https://www.vectorlogo.zone/logos/php/php-icon.svg" alt="PHP"      width="65" height="65"/> 
+</div>
+
 
 <h2>⚙️ GitHub Stats</h2>
 <div align="center">
