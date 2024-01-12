@@ -2,11 +2,11 @@
 
 I'm Stian Gabrielsen, a passionate developer exploring the fascinating world of web development and server management!
 
-- 🔭 **What I’m currently working on:** I'm developing a PHP server, self-hosted on a Raspberry Pi. This project is allowing me to blend my interest in hardware with my love for software development.
+- 🔭 **What I’m currently working on:** I'm currently working on front-end webdevelopment using HTML and CSS ATM.
 - 🌱 **What I’m currently learning:** My journey currently involves delving into web development. I'm picking up new skills and technologies every day, making sure I stay on the cutting edge of development practices.
 - 👯 **Collaboration:** I’m looking forward to collaborating with talented developers like [Simon Sandvik Lee](https://github.com/sandviklee) and [Sverre Nystad](https://github.com/SverreNystad). I believe in the power of teamwork and learning from others.
 - 🤔 **Seeking help:** I’m on the lookout for guidance in mastering the fundamentals of Frontend. If you have expertise in these areas, let’s connect!
-- 💬 **Ask me about:** Feel free to ask me about PHP development, managing Raspberry Pi servers, and transitioning into web development. I'm always eager to share my experiences and learn from others.
+- 💬 **Ask me about:** Feel free to ask me about PHP development, managing Raspberry Pi servers, and transitioning into web development. I'm always eager to share my experiences and learn from others. Also any tips would be great.
 - 📫 **How to reach me:** The best way to reach me is "stianbga@stud.ntnu.no" I’m always open to interesting conversations and new opportunities.
 - 😄 **Pronouns:** He/Him.
 - 🏦 **Education:** NTNU Webdesign
