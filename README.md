@@ -2,7 +2,7 @@
 
 I'm Stian Gabrielsen, a passionate developer exploring the fascinating world of web development and server management!
 
-- 🔭 **What I’m currently working on:** I'm currently working on front-end webdevelopment using HTML and CSS ATM.
+- 🔭 **What I’m currently working on:** I'm currently working on front-end web development using HTML and CSS ATM.
 - 🌱 **What I’m currently learning:** My journey currently involves delving into web development. I'm picking up new skills and technologies every day, making sure I stay on the cutting edge of development practices.
 - 👯 **Collaboration:** I’m looking forward to collaborating with talented developers like [Simon Sandvik Lee](https://github.com/sandviklee) and [Sverre Nystad](https://github.com/SverreNystad). I believe in the power of teamwork and learning from others.
 - 🤔 **Seeking help:** I’m on the lookout for guidance in mastering the fundamentals of Frontend. If you have expertise in these areas, let’s connect!
